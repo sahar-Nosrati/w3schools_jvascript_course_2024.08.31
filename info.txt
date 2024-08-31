@@ -1,0 +1,35 @@
+- js changes -> 
+  - HTML Content -> finds" an HTML element -> changes the element content -> inner HTML 
+  - HTML attribute values
+  - HTML Styles (CSS)
+  - Hide HTML Elements
+  - show HTML Elements
+
+- js script location ->
+  - in <head></head> -> <script></script>
+  - in <body></body> -> <script></script>
+  - external js -> in body <body></body> -> <script src=""></script> -> when the same code is used in many different web pages.
+
+- JS display -> 
+  - Writing into an HTML -> inner HTML
+  - writing into HTML -> document.write
+  - write into alert box -> widows.alert
+  - browser -> console.log 
+
+
+- js statments -> operators, operands, values, expressions, variables, keywords, comments 
+
+- values in js -> 
+  - fixed values -> literal -> number, string
+  - variable values -> variables 
+
+  - variables -> 
+    - automatically -> undeclared variable
+    - declared by var 
+    - declared by let
+    - declared by const 
+
+
+
+----------- up tp js operators (review) -------
+------------ Next plan  -> small project gusset  number ---------
